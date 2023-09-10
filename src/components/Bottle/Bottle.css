@@ -7,3 +7,8 @@
 .bottle-card img {
     width: 200px;
 }
+
+.purchase-btn {
+    background-color: rgb(13, 90, 6);
+    color: white;
+}
